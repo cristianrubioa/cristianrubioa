@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cristian Rubio</h1>
-<h3 align="center">A passionate frontend and backend developer, electronics, AI, Data Science,from Colombia</h3>
+<h3 align="center">A passionate frontend and backend developer, electronics, AI, Data Science, from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianrubioa&label=Profile%20views&color=0e75b6&style=flat" alt="cristianrubioa" /> </p>
 
 - 🔭 I’m currently working on [COVID-19-Colombia-App-with-MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/77816-boletin-de-informacion-covid-19-colombia)
 
-- 🌱 I’m currently learning **Data Science, AI**
-
 - 👯 I’m looking to collaborate on [Sistema de Respuesta COVID-19, Tolima](https://coronavirus-response-tolima-unibague.hub.arcgis.com/)
+
+- 🌱 I’m currently learning **Data Science, AI**
 
 - 💬 Ask me about **Python, Matlab**
 
