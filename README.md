@@ -12,8 +12,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working on [roverbot](https://github.com/cristianrubioa/roverbot)
-- 🗂 I’m looking to collaborate on [methods_lidar_3d](https://github.com/cristianrubioa/methods_lidar_3d)
+- 🛠 I’m currently working on [ubidots](https://github.com/ubidots)
+- 🗂 I’m looking to collaborate on [LOaM-comparison](https://github.com/HaroldMurcia/LOaM-comparison)
 - 🚀 I’m currently learning **Data Science, AI, ROS**
 - 💬 Ask me about [here](https://github.com/cristianrubioa/cristianrubioa/issues)! I am happy to help.
 
